@@ -3,13 +3,13 @@
 ### Content
 - How to install
 - Useful shortcuts
-- [Commands in terminal] (#Commands in terminal)
+- Commands in terminal
 - Extensions and themes
 
 
 ## How to install
 
-First step instal [VS Code] (https://code.visualstudio.com/) from the official side.
+First step instal [VS Code](https://code.visualstudio.com/) from the official side.
 
 
 ## Useful shortcuts
@@ -40,6 +40,8 @@ First step instal [VS Code] (https://code.visualstudio.com/) from the official s
 
 **Ctrl + Shift + `** - Create new terminal.
 
+![Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Keyboard shortcuts for Windows")
+
 > [![Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Keyboard shortcuts for Windows")](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
@@ -51,15 +53,15 @@ First step instal [VS Code] (https://code.visualstudio.com/) from the official s
 
 ## Extensions and themes
 
-[Material Icon Theme] (https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-[Prettier - Code formatter] (https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-[10 VsCode Extensions for web developers] (https://dev.to/javascriptacademy/top-10-vscode-extensions-for-web-developers-19jg)
+[10 VsCode Extensions for web developers](https://dev.to/javascriptacademy/top-10-vscode-extensions-for-web-developers-19jg)
 
-[VSCode Themes] (https://www.tabnine.com/blog/top-vscode-themes/)
+[VSCode Themes](https://www.tabnine.com/blog/top-vscode-themes/)
 
 
 ## Additional reading and video materials
 
-[Visual Studio Code Tips and Tricks] (https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+[Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
