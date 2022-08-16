@@ -1,11 +1,10 @@
 # Commands
 
 ## Navigation
-**"ls"**
-- LIST  
-    - lists files in the current working directory (use * as wild card ex.ls *.txt).
-    - **ls -R ~** starting from the root, will print every nested directory and the files inside them. 
-    > note: the command can be written from everywhere.  
+***"ls"***  --- LIST --- 
+   - lists files in the current working directory (use * as wild card ex.ls *.txt).
+   - **ls -R ~** starting from the root, will print every nested directory and the files inside them. 
+           > note: the command can be written from everywhere.  
 
 **mkdir** - MAKE DIRECTORY 
         - creates a  new directory/new folder (ex. mkdir {name}).
