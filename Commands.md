@@ -28,7 +28,7 @@
 ***".."(two dots)***  --- moves to the parent directory ---
    - (ex.cd ..) .
 
-**"~"** 
+***"~"(tilde)*** 
   - represents the ROOT directory (ex. cd ~ moves to the root directory).
   - when a path is given, the pat must start with ~  (ex. ~/folderName/folderName2/).
 
