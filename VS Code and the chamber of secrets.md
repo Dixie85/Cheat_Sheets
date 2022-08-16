@@ -40,8 +40,6 @@ First step instal [VS Code](https://code.visualstudio.com/) from the official si
 
 **Ctrl + Shift + `** - Create new terminal.
 
-![Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Keyboard shortcuts for Windows")
-
 > [![Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Keyboard shortcuts for Windows")](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
