@@ -43,8 +43,7 @@ First step instal [VS Code](https://code.visualstudio.com/) from the official si
 > [![Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Keyboard shortcuts for Windows")](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
-
-## Commands in terminal {#Commands in terminal}
+## Commands in terminal 
 
 **code _{fileName}.{extension}_** - Create a new file.
 
