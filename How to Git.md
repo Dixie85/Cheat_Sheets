@@ -177,10 +177,10 @@ GitHub has a few key concepts that their site revolves around and that are usefu
 
 ## Additional reading and video materials
 
-[Git and GitHub for Beginners] (https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+[Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-[Git Staging Area - simple explanation] (https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh)
+[Git Staging Area - simple explanation](https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh)
 
-[Introduction to branches] (https://www.atlassian.com/git/tutorials/using-branches)
+[Introduction to branches](https://www.atlassian.com/git/tutorials/using-branches)
 
-[How to Fork a GitHub Repository] (https://www.youtube.com/watch?v=XTolZqmZq6s)
+[How to Fork a GitHub Repository](https://www.youtube.com/watch?v=XTolZqmZq6s)
