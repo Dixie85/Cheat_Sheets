@@ -45,7 +45,9 @@ First step instal [VS Code](https://code.visualstudio.com/) from the official si
 
 ## Commands in terminal 
 
-**code _{fileName}.{extension}_** - Create a new file.
+**code _{fileName}.{extension}_** 
+   - If given an existing file name to the command, opens the file in VS Code.
+   - If the given name do not exist, VS Code creates a new file.
 
 
 ## Extensions and themes
