@@ -32,7 +32,7 @@ First step instal [VS Code](https://code.visualstudio.com/) from the official si
 
 **Ctrl + End** - Go to end of file.
 
-**Ctrl + G** Select/Go to Line(...) on the curent file.
+**Ctrl + G** - Select/Go to Line(...) on the curent file.
 
 **Ctrl + P** - Search/Go to File...
 
