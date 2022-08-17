@@ -1,34 +1,34 @@
 # Commands
 
 ## Navigation
-**"ls"**  --- LIST --- 
+### **"ls"**  --- LIST --- 
    - lists files in the current working directory (use * as wild card ex.ls *.txt).
    - ***ls -R ~*** starting from the root, will print every nested directory and the files inside them. 
         > note: the command can be written from everywhere.  
 
-***"mkdir"*** --- MAKE DIRECTORY --- 
+### ***"mkdir"*** --- MAKE DIRECTORY --- 
    - creates a  new directory/new folder (ex. mkdir {name}).
 
-***"touch"*** --- CREATE FILE --- 
+### ***"touch"*** --- CREATE FILE --- 
    - creates a new file (ex. touch {name}.{extension} / touch myText.txt).
 
 
-***"cat"*** --- CONCATENATE ---
+### ***"cat"*** --- CONCATENATE ---
    - print the content of a file in the terminal (ex. cat {file}).
        - **"head"** - print the beginning of the content of a file in the terminal (ex. head {file}).
        - **"tail"** - print the end of the content of a file in the terminal (ex. tail {file}).
 
-***"man"*** --- MANUAL ---
+### ***"man"*** --- MANUAL ---
         - opens manual for a command (ex. man whoami).
 
-***"cd"***  --- CHANGE DIRECTORY ---
+### ***"cd"***  --- CHANGE DIRECTORY ---
    - (ex. cd {name of an existing directory}).
 
        - ***"."(dot)***   --- This directory ---
 
        - ***".."(two dots)***  --- moves to the parent directory --- (ex.cd ..)
 
-***"~"(tilde)*** 
+### ***"~"(tilde)*** 
   - represents the ROOT directory (ex. cd ~ moves to the root directory).
   - when a path is given, the pat must start with ~  (ex. ~/folderName/folderName2/).
 
@@ -48,12 +48,12 @@
    - "rm" can delete specific group of files if name or extension is added after * (the wild card) (ex. rm *.txt)  
 
 ## Removing directories - and using flags 
-***"rmdir"*** --- REMOVE DIRECTORY ---
+### ***"rmdir"*** --- REMOVE DIRECTORY ---
    - permanently deleteing the directory
 ### Flags
 
-###   ***"- r"*** - Recursive, i.e. include all subfolders, and files permanently
-### ***"- f"*** - Force (don’t ask questions)
+####   ***"- r"*** - Recursive, i.e. include all subfolders, and files permanently
+#### ***"- f"*** - Force (don’t ask questions)
    > note: Flags follow the original command (ex. rm -r -f ~/folderName/folderName2/) (ex. rm -rf ~/folderName/).
 
 
