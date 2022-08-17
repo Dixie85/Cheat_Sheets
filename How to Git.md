@@ -25,29 +25,29 @@
 
 ### Terminology
 
-**Repository** - A location where code is stored, either on your computer or somewhere else. Also called a ‘repo’.
+**"Repository"** - A location where code is stored, either on your computer or somewhere else. Also called a ‘repo’.
 
-**Local Repository** - A git repository on your machine (stored in a folder called .git).
+**"Local Repository"** - A git repository on your machine (stored in a folder called .git).
 
-**Remote Repository** - A git repository somewhere else, typically online. Maybe GitHub or similar.
+**"Remote Repository"** - A git repository somewhere else, typically online. Maybe GitHub or similar.
 
-**Clone** - A copy of a repository and all its history so that you can work on it on your local machine.
+**"Clone"** - A copy of a repository and all its history so that you can work on it on your local machine.
 
-**Working Directory** - The folder where your current .git folder is located for this repository.
+**"Working Directory"** - The folder where your current .git folder is located for this repository.
 
-**Staging Area** - Where files being prepared to commit.
+**"Staging Area"** - Where files being prepared to commit.
 
-**Committed Files** - Files stored in git (locally .git).
+**"Committed Files"** - Files stored in git (locally .git).
 
-**Pull** - Get current git state from another repository.
+**"Pull"** - Get current git state from another repository.
 
-**Push** - 	Move current git state to another repository.
+**"Push"** - 	Move current git state to another repository.
 
-**Branch** - A parallel copy of the original repository at a certain point in time. Gives the opportunity to track the same files at different points in the time.
+**"Branch"** - A parallel copy of the original repository at a certain point in time. Gives the opportunity to track the same files at different points in the time.
 
-**Add** - Adding changes to the Staging Area.
+**"Add"** - Adding changes to the Staging Area.
 
-**Commit** - Storesing a version of a file in history.
+**"Commit"** - Storesing a version of a file in history.
 
 
 ### The staging process
@@ -148,10 +148,10 @@ All repositories have at least one branch main (used to be called master). There
     > git branch -D {branch name}
 
  - **git merge**
-    Finally, merge the state of one branch into another by _git merge {branch name_ to merge into your current branch}. If we are on the _main_ branch and want to merge the changes made in _testing-dangerous-stuff-by-myself branch_ into main...
+  Finally, merge the state of one branch into another by _git merge {branch name_ to merge into your current branch}. If we are on the _main_ branch and want to merge the changes made in _testing-dangerous-stuff-by-myself branch_ into main...
 
     > - git checkout main 
-      - git merge testing-dangerous-stuff-by-myself
+    > - git merge testing-dangerous-stuff-by-myself
 
 
 ## GitHub
