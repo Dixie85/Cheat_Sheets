@@ -3,7 +3,7 @@
 ### Concepts
 - Version control
 - Git
-- [Github](#github-1)
+- Github
 
 
 ## Version control
@@ -60,7 +60,7 @@ When we want "git" to know about something/some changes on our computer we will 
     - An _unstaged_ file is a file that we have on our computer (in the folder with the repository) that we haven't told git about. Git won't track the file unless we explicitly tell it to. (Unstaged changes are changes that are not tracked by the Git).
     - A _staged_ file is a file that we have **_git add_** to our local git repository. We can remove a staged file from the staging area, and then the file becomes unstaged again.
  - **Steps 2**
-    - Once we have staged a file, now we can save a certain version of the file to the repository. This is called to **_commit_** a file to git. Once you have ==_git commit_== a file, git stores a version of that file in our history(in the repo).
+    - Once we have staged a file, now we can save a certain version of the file to the repository. This is called to **_commit_** a file to git. Once you have _git commit_ a file, git stores a version of that file in our history(in the repo).
 
 
 ### Few git commands to start with
@@ -148,13 +148,13 @@ All repositories have at least one branch main (used to be called master). There
     > git branch -D {branch name}
 
  - **git merge**
-  Finally, merge the state of one branch into another by _git merge {branch name_ to merge into your current branch}. If we are on the _main_ branch and want to merge the changes made in _testing-dangerous-stuff-by-myself branch_ into main...
+      - Finally, merge the state of one branch into another by _git merge {branch name_ to merge into your current branch}. If we are on the _main_ branch and want to merge the changes made in _testing-dangerous-stuff-by-myself branch_ into main...
 
     > - git checkout main 
     > - git merge testing-dangerous-stuff-by-myself
 
 
-## GitHub{#1}
+## GitHub
 
 GitHub is the world's largest site for sharing code among developers. At GitHub.com developers can upload their git repositories and then let other people clone them to work on the code on their computers.
 
@@ -162,7 +162,7 @@ GitHub and git are, in other words, two very different things. git is a tool to 
 
 GitHub has a few key concepts that their site revolves around and that are useful to facilitate working together on code. But at its core, GitHub is built around git.
 
-### GitHub concepts 
+### GitHub concepts
 
 **Repo** - A git repository pushed to GitHub. This is the starting point for everything you do with code on GitHub. A repository can be public so that everyone can see (and use) it. Or private when only people you let in can use it.
 
