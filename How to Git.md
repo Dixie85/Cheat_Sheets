@@ -3,7 +3,7 @@
 ### Concepts
 - Version control
 - Git
-- Github
+- [Github](#1)
 
 
 ## Version control
@@ -162,7 +162,7 @@ GitHub and git are, in other words, two very different things. git is a tool to 
 
 GitHub has a few key concepts that their site revolves around and that are useful to facilitate working together on code. But at its core, GitHub is built around git.
 
-### GitHub concepts
+### GitHub concepts {#1}
 
 **Repo** - A git repository pushed to GitHub. This is the starting point for everything you do with code on GitHub. A repository can be public so that everyone can see (and use) it. Or private when only people you let in can use it.
 
