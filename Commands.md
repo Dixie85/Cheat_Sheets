@@ -12,8 +12,6 @@
 ***"touch"*** --- CREATE FILE --- 
    - creates a new file (ex. touch {name}.{extension} / touch myText.txt).
 
-***"cd"***  --- CHANGE DIRECTORY ---
-   - (ex. cd {name of an existing directory}).
 
 ***"cat"*** --- CONCATENATE ---
    - print the content of a file in the terminal (ex. cat {file}).
@@ -23,10 +21,12 @@
 ***"man"*** --- MANUAL ---
         - opens manual for a command (ex. man whoami).
 
-***"."(dot)***   --- This directory ---
+***"cd"***  --- CHANGE DIRECTORY ---
+   - (ex. cd {name of an existing directory}).
 
-***".."(two dots)***  --- moves to the parent directory ---
-   - (ex.cd ..) .
+       - ***"."(dot)***   --- This directory ---
+
+       - ***".."(two dots)***  --- moves to the parent directory --- (ex.cd ..)
 
 ***"~"(tilde)*** 
   - represents the ROOT directory (ex. cd ~ moves to the root directory).
@@ -34,15 +34,15 @@
 
 
 ## Copying, moving and removing files
-***"cp"***  --- COPY ---
+### ***"cp"***  --- COPY ---
    - if location is not specified the file will be copyed in the same directory, but a different name must be given. 
    - a path must be provided if a file is copied in a different directory (ex. cp myDoc.txt ~/folderName/folderName2/).
 
-***"mv"***  --- MOVE ---
+### ***"mv"***  --- MOVE ---
    - moving the file in the same directory with a different name will RENAME the file (ex. mv myDoc.txt myText.txt).
    - a path must be provided if a file is moved in a different directory.
 
-***"rm"***  --- REMOVE ---
+### ***"rm"***  --- REMOVE ---
    - permanently deleteing the specified file
    - used with the * (the wild card) will delete all file in the current directory (only files) (ex. rm *) 
    - "rm" can delete specific group of files if name or extension is added after * (the wild card) (ex. rm *.txt)  
