@@ -19,7 +19,7 @@
        - **"tail"** - print the end of the content of a file in the terminal (ex. tail {file}).
 
 ### ***"man"*** --- MANUAL ---
-                        - opens manual for a command (ex. man whoami).
+                - opens manual for a command (ex. man whoami).
 
 ### ***"cd"***  --- CHANGE DIRECTORY ---
    - (ex. cd {name of an existing directory}).
